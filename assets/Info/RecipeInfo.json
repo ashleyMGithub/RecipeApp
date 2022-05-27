@@ -1,0 +1,164 @@
+{
+    "Bolognese":[
+        {"title": "Bolognese", "meal_type": "Lunch", "serves": 5, "ingredients": [
+            {"name": "Tagliatelle", "amount":"400g"},
+            {"name": "Black pepper", "amount":"1 pinch"},
+            {"name": "Salt", "amount":"1 pinch"},
+            {"name": "Garlic Cloves", "amount":"2"},
+            {"name": "Chopped Tomatoes", "amount":"800g"},
+            {"name": "Carrots", "amount":"80g"},
+            {"name": "Onions", "amount":"2"},
+            {"name": "Olive Oil", "amount":"10g (1 tablespoon)"}
+            ],
+        "prep_steps":[
+            {"step": "Chop the onions", "number": 1},
+            {"step": "Chop the celery", "number": 2},
+            {"step": "Chop the garlic", "number": 3},
+            {"step": "Chop the carrots", "number": 4},
+            {"step": "Pour your water in a pot", "number": 5}
+        ],
+        "image_tag": "bolognese",
+        "difficulty": "Medium"
+        }
+    ],
+    "Potato":[
+        {"title": "Potato", "meal_type": "Anytime", "serves": 10, "ingredients": [
+            {"name": "Potato", "amount":"As many as you want."},
+            {"name": "Water", "amount":"500g"}
+            ],
+        "prep_steps":[
+            {"step": "Get the Potato(es)", "number": 1},
+            {"step": "Skin the Potato(es) - Optional", "number": 2},
+            {"step": "Chop the Potato(es) - Optional", "number": 3}
+        ],
+        "image_tag": "potato",
+        "difficulty": "Easy"
+        }
+    ],
+    "English Breakfast":[
+        {"title": "English Breakfast", "meal_type": "Breakfast", "serves": 1, "ingredients": [
+            {"name": "Sausages", "amount":"4"},
+            {"name": "Tomatoes", "amount":"2"},
+            {"name": "Mushrooms", "amount":"300g"},
+            {"name": "Vegetable Oil", "amount":"3 tbsp"},
+            {"name": "Baked Beans", "amount":"400g"},
+            {"name": "Eggs", "amount":"2"},
+            {"name": "Bread", "amount":"2 slices"}
+            ],
+        "prep_steps":[
+            {"step": "Cut tomatoes in half", "number": 1},
+            {"step": "Get baked beans ready", "number": 2},
+            {"step": "Get your eggs, oil and saucepan ", "number": 3},
+            {"step": "Get your sausages and mushrooms", "number": 4},
+            {"step": "Toast your bread in a toaster", "number": 5},
+            {"step": "Preheat oven at 120 celcius", "number": 6}
+        ],
+        "image_tag": "english_breakfast",
+        "difficulty": "Veteran Chef"
+        }
+    ],
+    "Fruit Salad":[
+        {"title": "Fruit Salad", "meal_type": "Breakfast", "serves": 5, "ingredients": [
+            {"name": "Strawberries", "amount":"450g"},
+            {"name": "Blueberries", "amount":"170g"},
+            {"name": "Raspberries", "amount":"170g"},
+            {"name": "Kiwis", "amount":"3 (peeled and sliced)"},
+            {"name": "Orange", "amount":"1 (peeled and sliced)"},
+            {"name": "Apples", "amount":"2 (peeled and sliced)"},
+            {"name": "Mango", "amount":"1 (peeled and sliced)"},
+            {"name": "Grapes", "amount":"200g"}
+            ],
+        "prep_steps":[
+            {"step": "Remove seeds from all fruits", "number": 1},
+            {"step": "Remove any cores from fruits if necessary", "number": 2},
+            {"step": "Ensure fruits are bitesized", "number": 3},
+            {"step": "Grab a mixing bowl and place your fruits in there", "number": 4}
+        ],
+        "image_tag": "fruit_salad",
+        "difficulty": "Medium"
+        }
+    ],
+    "Banana Pudding":[
+        {"title": "Banana Pudding", "meal_type": "Dinner", "serves": 10, "ingredients": [
+            {"name": "Milk", "amount":"320ml"},
+            {"name": "Custard Powder", "amount":"150g"},
+            {"name": "Condensed Milk", "amount":"400ml"},
+            {"name": "Double Cream", "amount":"720ml"},
+            {"name": "Vanilla Extract", "amount":"1 tsp"},
+            {"name": "Bananas", "amount":"4 (peeled and sliced)"},
+            {"name": "Sugar", "amount":"2 tsp"}
+            ],
+        "prep_steps":[
+            {"step": "Combine milk, custard powder and condensed milk in a mixing bowl", "number": 1},
+            {"step": "Combine the double cream and vanilla in another mixing bowl", "number": 2},
+            {"step": "Ensure bananas are slice", "number": 3},
+            {"step": "Have the sugar ready", "number": 4}
+        ],
+        "image_tag": "banana_pudding",
+        "difficulty": "Hard"
+        }
+    ],
+    "Butter Chicken":[
+        {"title": "Butter Chicken", "meal_type": "Lunch/Dinner", "serves": 8, "ingredients": [
+            {"name": "Boneless Chicken thighs", "amount":"800g"},
+            {"name": "Full fat yoghurt", "amount":"64g"},
+            {"name": "Garam Masala - Seasoning", "amount":"2 tsp"},
+            {"name": "Tumeric - Seasoning", "amount":"1 tsp"},
+            {"name": "Ground cumin - Seasoning", "amount":"1 tsp"},
+            {"name": "Red chilli - Seasoning", "amount":"1 tsp"},
+            {"name": "Salt - Seasoning", "amount":"1 tsp"},
+            {"name": "Ground ginger - Seasoning", "amount":"1 tsp"},
+            {"name": "Butter", "amount":"2 tbs"}
+            ],
+        "prep_steps":[
+            {"step": "Put the chicken in a mixing bowl", "number": 1},
+            {"step": "Marinate chicken with the listed seasonings", "number": 2},
+            {"step": "Cover the mixing bowl with foil/clingfilm", "number": 3},
+            {"step": "Let the chicken marinate for an hour or overnight in a fridge", "number": 4}
+        ],
+        "image_tag": "butter_chicken",
+        "difficulty": "Medium"
+        }
+    ],
+    "Meatballs":[
+        {"title": "Meatballs", "meal_type": "Lunch", "serves": 24, "ingredients": [
+            {"name": "Ground beef", "amount":"500g"},
+            {"name": "Italian sausages", "amount":"3"},
+            {"name": "White breadcrumbs", "amount":"64g"},
+            {"name": "Salt - seasoning", "amount":"1 tsp"},
+            {"name": "Black pepper - seasoning", "amount":"1 tsp"},
+            {"name": "Basil - seasioning", "amount":"1 tsp"},
+            {"name": "Parsley - Seasoning", "amount":"1 tsp"},
+            {"name": "Eggs", "amount":"3"}
+            ],
+        "prep_steps":[
+            {"step": "Put the ground beef into a mixing bowl", "number": 1},
+            {"step": "Remove sausage casings", "number": 2},
+            {"step": "Put the sausages into the mixing bowl", "number": 3},
+            {"step": "Add your breakcrumbs into the mixing bowl", "number": 4},
+            {"step": "Crack your eggs and place their produce in the mixing bowl", "number": 5},
+            {"step": "Add your seasonings to the mixing bowl", "number": 6},
+            {"step": "Mix everything in the mixing bowl with your hands", "number": 7}
+        ],
+        "image_tag": "meatballs",
+        "difficulty": "Medium"
+        }
+    ],
+    "White Rice":[
+        {"title": "White Rice", "meal_type": "Anytime", "serves": 12, "ingredients": [
+            {"name": "long-grain white rice", "amount":"128g"},
+            {"name": "Salt - seasoning", "amount":"1/2 tsp"},
+            {"name": "Water", "amount":"118ml"}
+            ],
+        "prep_steps":[
+            {"step": "Wash your rice", "number": 1},
+            {"step": "Put the rice into a pot", "number": 2},
+            {"step": "Place your water into the pot", "number": 3},
+            {"step": "Add your salt to the pot", "number": 4},
+            {"step": "Mix the salt, water and the rice", "number": 5}
+        ],
+        "image_tag": "white_rice",
+        "difficulty": "Easy"
+        }
+    ]
+}
